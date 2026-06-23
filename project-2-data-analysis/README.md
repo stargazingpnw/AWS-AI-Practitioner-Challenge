@@ -6,7 +6,7 @@ An empirical data investigation executed as part of the **AWS AI Practitioner Ch
 The goal of this project was to leverage PartyRock's data sandbox to upload raw records, perform targeted multi-turn data mining, generate cross-tabulated insights tables, and evaluate the analytical precision of the AI's data synthesis.
 
 ## 📊 The Dataset Environment
-*   **Target Source:** Derived from the peer-reviewed Mendeley Data repository: *"Association of food insecurity on gut microbiome and metabolome profiles in a diverse college-based sample"* (Mohr et al., 2022).
+*   **Target Source:** Derived from the peer-reviewed Mendeley Data repository: *["Association of food insecurity on gut microbiome and metabolome profiles in a diverse college-based sample"] (https://data.mendeley.com/datasets/s4ydf6kb8y/1)* (Mohr et al., 2022).
 *   **Data Format:** Two `.xlsx` spreadsheets mapping raw biological and demographic metrics for a cohort of 60 first-year college students.
 *   **Core Variables:** 
     *   Food Security Status (Food Secure [FS] vs. Food Insecure [FI])
