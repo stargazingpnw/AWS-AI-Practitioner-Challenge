@@ -47,6 +47,6 @@ Instead of scrapping the project, I pivoted the app's entire architecture to mat
 ---
 
 ## 🔗 Try It Out
-[👉 Click Here to Run NutriWellness Personal Health Coach on PartyRock]([https://partyrock.aws/u/stargazingpnw/D5G7gOBly/NutriWellness-Personal-Health-Coach])
+[👉 Click Here to Run NutriWellness Personal Health Coach on PartyRock](https://partyrock.aws/u/stargazingpnw/D5G7gOBly/NutriWellness-Personal-Health-Coach)
 
 *Note: Because PartyRock does not save session states, you can safely paste your metrics, screenshot your daily plan, or copy/paste your customized targets to your personal notes app daily!*
