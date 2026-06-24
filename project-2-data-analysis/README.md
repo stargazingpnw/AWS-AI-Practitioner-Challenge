@@ -6,7 +6,7 @@ An empirical data investigation executed as part of the **AWS AI Practitioner Ch
 The goal of this project was to leverage PartyRock's data sandbox to upload raw records, perform targeted multi-turn data mining, generate cross-tabulated insights tables, and evaluate the analytical precision of the AI's data synthesis.
 
 ## 📊 The Dataset Environment
-*   **Target Source:** Derived from the peer-reviewed Mendeley Data repository tracking metabolic metrics in a diverse college-based sample.
+*   **Target Source:** Derived from the [peer-reviewed Mendeley Data repository](https://data.mendeley.com/datasets/s4ydf6kb8y/1) tracking metabolic metrics in a diverse college-based sample.
 *   **Data Format:** Two matching `.xlsx` spreadsheets mapping raw biological and demographic metrics for a cohort of 60 first-year college students.
 *   **Core Variables Available:** 
     *   **Food Insecurity Metadata:** Nutritional intake data (calories, macronutrients, vitamins, minerals), demographic information (age, gender, BMI), and lifestyle factors (screen time, physical activity, year in school, dorm status).
