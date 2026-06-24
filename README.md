@@ -25,8 +25,8 @@ By analyzing user-facing tracking telemetry (Project 1) alongside a separate, pe
 ### 🧪 [Project 2: College Cohort Nutrition & Metabolomic Profile Exploration](./project-2-data-analysis/)
 *   **Core Focus:** Foundational Model Data Analysis & Biological Trend Synthesis.
 *   **Module Type:** Clinical Informatics & Data Integration Layer (Cohort 2)
-*   **Description:** A data investigation module leveraging PartyRock’s *Analyze Data* workflow to parse complex biological datasets. The engine explores the relationship between nutrient profiles, lifestyle habits (dorm status, screen time), and mass-spectrometry serum metabolome variations among college students.
-*   **TPM & Technical Highlights:** Utilized an independent, peer-reviewed clinical dataset sourced directly from [Mendeley Data (Mohr et al., n=60)](https://mendeley.com) to analyze serum and fecal metabolomic profiles under nutritional constraints. Orchestrated multi-turn analytical prompting to build integrated physiological data matrix schemas.
+*   **Description:** A data investigation module leveraging PartyRock’s *Analyze Data* workflow to parse complex biological datasets. The engine explores the relationship between nutrient profiles, lifestyle habits (dorm status, screen time), and mass-spectrometry metabolome variations among college students.
+*   **TPM & Technical Highlights:** Utilized an independent, peer-reviewed clinical dataset sourced directly from [Mendeley Data (Mohr et al., n=60)](https://mendeley.com) to analyze mutli-variable metabolomic profiles under nutritional constraints. Orchestrated multi-turn analytical prompting to build integrated physiological data matrix schemas.
 *   **Technologies Used:** PartyRock Data Analyzer, Prompt-Driven Bioinformatic Synthesis, Path-Analysis Evaluation Matrix.
 *   **[👉 View Full Project Details & Readme](./project-2-data-analysis/README.md)**
 
