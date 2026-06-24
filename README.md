@@ -21,7 +21,7 @@ A single-session AI app that acts as a daily morning coach. Users log yesterday'
 
 **Highlights:** Designed strict prompt guardrails enforcing six dietary categories and food allergy compliance after catching the AI suggesting non-compliant foods during testing. Iteratively simplified every output widget down to two to three actionable items to reduce cognitive overwhelm, rather than overwhelming the user with comprehensive but unusable information.
 
-**[View full Project 1 README →](./README_Project1.md)**
+**[View project folder →](https://github.com/stargazingpnw/AWS-AI-Practitioner-Challenge/tree/main/project-1-nutriwellness)**
 
 ### 🧪 [Project 2: Gut Microbiome and Metabolome Data Analysis](./README_Project2.md)
 
@@ -31,7 +31,7 @@ Used PartyRock's Analyze Data feature (Whiskers) to investigate a peer-reviewed 
 
 **Highlights:** Identified and explained several counterintuitive findings, including an inverse relationship between BMI and branched-chain amino acids that runs against typical obesity research, demonstrating evaluation of AI output rather than uncritical acceptance.
 
-**[View full Project 2 README →](./README_Project2.md)**
+**[View project folder →](https://github.com/stargazingpnw/AWS-AI-Practitioner-Challenge/tree/main/project-2-data-analysis)**
 
 ---
 
@@ -45,5 +45,7 @@ Used PartyRock's Analyze Data feature (Whiskers) to investigate a peer-reviewed 
 ---
 
 ## 🚀 Exploring This Portfolio
+
+Each project has its own dedicated README linked above, covering the build process, design decisions, iterations, and findings in full detail.
 
 Each project has its own dedicated README linked above, covering the build process, design decisions, iterations, and findings in full detail.
