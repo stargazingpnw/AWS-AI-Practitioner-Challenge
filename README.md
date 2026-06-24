@@ -14,9 +14,9 @@ The projects in this portfolio demonstrate core competencies in Generative AI, f
 *   **Technologies Used:** Amazon PartyRock, Amazon Bedrock, Prompt Constraint Engineering, Custom Input/Output UI Widgets.
 *   **[👉 View Full Project Details & Readme](./project-1-nutriwellness/README.md)**
 
-### 📊 [Project 2: College Cohort Gut Microbiome & Food Insecurity Analysis](./project-2-data-analysis/)
+### 📊 [Project 2: College Cohort Nutrition & Metabolomic Profile Exploration](./project-2-data-analysis/)
 *   **Core Focus:** Foundational Model Data Analysis & Biological Trend Synthesis.
-*   **Description:** A data investigation project using PartyRock’s *Analyze Data* workflow to parse complex biological datasets. The project explores the relationship between food insecurity and gut microbiome/metabolome variations among college students using multi-turn prompting and AI-generated analysis tables.
+*   **Description:** A data investigation project using PartyRock’s *Analyze Data* workflow to parse complex biological datasets. The project explores the relationship between nutrient profiles, lifestyle habits (like dorm status and screen time), and metabolome variations among college students using multi-turn prompting and AI-generated analysis tables.
 *   **Technologies Used:** PartyRock Data Analyzer, Prompt-Driven Synthesis, Metabolomic Evaluation.
 *   **[👉 View Full Project Details & Readme](./project-2-data-analysis/README.md)**
 
