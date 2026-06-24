@@ -13,7 +13,7 @@ Together, they reflect a genuine interest in healthtech, particularly in technic
 
 ## 📂 Portfolio Projects
 
-### 🏃 [Project 1: NutriWellness Personal Health Coach](./README_Project1.md)
+### 🏃 [Project 1: NutriWellness Personal Health Coach](https://github.com/stargazingpnw/AWS-AI-Practitioner-Challenge/blob/main/project-1-nutriwellness/README.md)
 
 **Core Focus:** Morning wellness coaching through nutrition, fitness, and mood support
 
@@ -23,7 +23,7 @@ A single-session AI app that acts as a daily morning coach. Users log yesterday'
 
 **[View project folder →](https://github.com/stargazingpnw/AWS-AI-Practitioner-Challenge/tree/main/project-1-nutriwellness)**
 
-### 🧪 [Project 2: Gut Microbiome and Metabolome Data Analysis](./README_Project2.md)
+### 🧪 [Project 2: Gut Microbiome and Metabolome Data Analysis](https://github.com/stargazingpnw/AWS-AI-Practitioner-Challenge/blob/main/project-2-data-analysis/README.md)
 
 **Core Focus:** Applied data analysis using AI to explore a real clinical dataset
 
@@ -45,7 +45,5 @@ Used PartyRock's Analyze Data feature (Whiskers) to investigate a peer-reviewed 
 ---
 
 ## 🚀 Exploring This Portfolio
-
-Each project has its own dedicated README linked above, covering the build process, design decisions, iterations, and findings in full detail.
 
 Each project has its own dedicated README linked above, covering the build process, design decisions, iterations, and findings in full detail.
