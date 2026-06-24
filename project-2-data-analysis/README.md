@@ -35,6 +35,16 @@ The AI's statistical outputs (correlation coefficients, percentage differences) 
 
 The most valuable aspect of this exercise was using the AI as a hypothesis-generation tool: the correlations and patterns it surfaced are not conclusions on their own, but they identify exactly where a real researcher would want to dig deeper, such as the unexpected inverse relationship between BCAAs and BMI in this cohort.
 
+## Key Insights
+
+1. **The body tightly regulates branched-chain amino acid (BCAA) levels regardless of protein intake.** Despite BCAAs being dietary amino acids, they showed near-zero correlation with protein consumption, suggesting metabolic regulation dominates over short-term dietary tracking.
+2. **Higher screen time correlates with higher sugar intake**, possibly influenced by emotional states tied to screen content or by passive snacking behavior during screen use.
+3. **Dorm 2 students showed both higher protein intake and higher physical activity**, which the AI interpreted as a likely sign of better dining or recreational options in that dorm, an inference that goes beyond raw statistics into plausible real-world reasoning.
+
+## Evaluation of AI Reasoning
+
+Beyond reporting correlations, the AI's analysis showed an ability to apply real-world logic to its findings rather than only restating the numbers. For example, when it noticed Dorm 2 students had both higher protein intake and higher activity levels, it proposed that Dorm 2 likely has healthier food options available, a reasonable inferential leap rather than a simple statistical restatement. This kind of grounded reasoning, drawing a plausible causal hypothesis from a correlation, is what distinguishes a useful analysis from a purely mechanical one, and it's a meaningfully more reliable output than what a general-purpose LLM would produce without structured data to reason from directly.
+
 ## Key Takeaway
 
 Lifestyle context (activity level, screen time, dorm environment) appeared to matter more than absolute caloric intake alone in determining health outcomes in this cohort, and metabolomic profiles reflect longer-term physiological regulation more than they reflect any single day's dietary intake.
